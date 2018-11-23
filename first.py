@@ -8,3 +8,7 @@ def test_strings_a_3():
 
 def test_number_5_6():
 	assert multiply(5,6) == 30
+
+def test_number_10_23():
+	assert multiply(10,23) == 230
+	
